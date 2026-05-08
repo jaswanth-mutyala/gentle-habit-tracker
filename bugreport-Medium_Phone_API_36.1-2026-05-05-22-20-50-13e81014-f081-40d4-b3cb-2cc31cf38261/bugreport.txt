@@ -1,0 +1,2 @@
+/data/user_de/0/com.android.shell/files/bugreports/bugreport-sdk_gphone64_x86_64-BP41.250916.009.A1-2026-05-05-22-19-00.zip: 1 file pulled, 0 skipped. 36.4 MB/s (8115226 bytes in 0.212s)
+Bug report copied to C:\Users\jaswa\Projects\gentlehabits app\gentle-habit-tracker\bugreport-sdk_gphone64_x86_64-BP41.250916.009.A1-2026-05-05-22-19-00.zip
